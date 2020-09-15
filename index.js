@@ -1,4 +1,4 @@
-//An array of objects
+
 const data = [
     //The first object starts here
     {
